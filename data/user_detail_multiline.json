@@ -1,0 +1,25 @@
+{
+  "user_id": 1,
+  "user_name":"Santosh",
+  "user_city":"Gurgaon"
+}
+{
+  "user_id": 2,
+  "user_name":"Sunil",
+  "user_city":"Siwan"
+}
+{
+  "user_id": 3,
+  "user_name":"Yogyata",
+  "user_city":"New Delhi"
+}
+{
+  "user_id": 4,
+  "user_name":"Indoo",
+  "user_city":"Deoria"
+}
+{
+  "user_id": 5,
+  "user_name":"Jeni",
+  "user_city":"Mairwa"
+}
