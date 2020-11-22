@@ -1,6 +1,6 @@
 package com.santosh.apache.spark.dataframe
 
-import org.apache.spark.sql.{Row, SparkSession}
+import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.types.{IntegerType, StringType, StructField, StructType}
 
 object part_2_create_dataframe_from_csv_file {
