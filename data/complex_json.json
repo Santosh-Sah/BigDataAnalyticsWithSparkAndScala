@@ -1,0 +1,22 @@
+{
+  "item1": "item1",
+  "item2": "item2",
+  "item3": "item3",
+  "data": [{
+    "inner_item1": "inner_item1",
+    "inner_item2": [{
+      "key": "k1",
+      "value": "v1"
+    }]
+  },{
+    "inner_item1": "inner_item2",
+    "inner_item2": [{
+      "key": "k3",
+      "value": "v4"
+    }]
+  }],
+  "check": {
+    "check1": "1",
+    "check2": "two"
+  }
+}

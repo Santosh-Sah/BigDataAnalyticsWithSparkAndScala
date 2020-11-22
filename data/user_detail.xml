@@ -1,0 +1,27 @@
+<users>
+    <user>
+        <user_id>1</user_id>
+        <user_name>Santosh</user_name>
+        <user_city>Gurgaon</user_city>
+    </user>
+    <user>
+        <user_id>2</user_id>
+        <user_name>Sunil</user_name>
+        <user_city>Siwan</user_city>
+    </user>
+    <user>
+        <user_id>3</user_id>
+        <user_name>Yogyata</user_name>
+        <user_city>New Delhi</user_city>
+    </user>
+    <user>
+        <user_id>4</user_id>
+        <user_name>Indoo</user_name>
+        <user_city>Deoria</user_city>
+    </user>
+    <user>
+        <user_id>5</user_id>
+        <user_name>Jeni</user_name>
+        <user_city>Mairwa</user_city>
+    </user>
+</users>

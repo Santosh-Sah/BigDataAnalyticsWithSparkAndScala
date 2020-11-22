@@ -1,0 +1,34 @@
+<curriculam>
+    <CourseOffering>
+        <id>1</id>
+        <semester>fall</semester>
+        <enrolled>120</enrolled>
+        <professor>
+            <id>1</id>
+            <name>santosh</name>
+            <school>MDI</school>
+        </professor>
+        <course>
+            <id>3</id>
+            <coursename>statistics</coursename>
+            <department>management</department>
+            <maximumstudent>60</maximumstudent>
+        </course>
+    </CourseOffering>
+    <CourseOffering>
+        <id>2</id>
+        <semester>fall</semester>
+        <enrolled>130</enrolled>
+        <professor>
+            <id>2</id>
+            <name>sunil</name>
+            <school>IIM</school>
+        </professor>
+        <course>
+            <id>3</id>
+            <coursename>data science</coursename>
+            <department>IT</department>
+            <maximumstudent>120</maximumstudent>
+        </course>
+    </CourseOffering>
+</curriculam>
