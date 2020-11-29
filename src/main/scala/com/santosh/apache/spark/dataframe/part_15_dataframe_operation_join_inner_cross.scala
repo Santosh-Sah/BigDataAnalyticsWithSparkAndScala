@@ -11,7 +11,7 @@ object part_15_dataframe_operation_join_inner_cross {
 
     val spark = SparkSession
       .builder()
-      .appName(name = "Create First Apache Spark Dataframe")
+      .appName(name = "Dataframe Operation: join | inner, cross")
       .master(master = "local[*]")
       .getOrCreate()
 

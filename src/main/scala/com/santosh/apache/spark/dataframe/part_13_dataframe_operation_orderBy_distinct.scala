@@ -12,7 +12,7 @@ object part_13_dataframe_operation_orderBy_distinct {
 
     val spark = SparkSession
       .builder()
-      .appName(name = "Create First Apache Spark Dataframe")
+      .appName(name = "Dataframe Operation: OrderBy, Distinct")
       .master(master = "local[*]")
       .getOrCreate()
 

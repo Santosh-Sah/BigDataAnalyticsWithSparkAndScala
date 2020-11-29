@@ -11,7 +11,7 @@ object part_12_dataframe_operation_filter_limit {
 
     val spark = SparkSession
       .builder()
-      .appName(name = "Create First Apache Spark Dataframe")
+      .appName(name = "Dataframe Operation: filter")
       .master(master = "local[*]")
       .getOrCreate()
 

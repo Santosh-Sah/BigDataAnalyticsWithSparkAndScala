@@ -12,7 +12,7 @@ object part_14_dataframe_operation_groupBy_agg {
 
     val spark = SparkSession
       .builder()
-      .appName(name = "Create First Apache Spark Dataframe")
+      .appName(name = "Dataframe Operation: GroupBy, Aggregation")
       .master(master = "local[*]")
       .getOrCreate()
 

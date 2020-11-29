@@ -12,7 +12,7 @@ object part_11_dataframe_operation_select_alias {
 
     val spark = SparkSession
       .builder()
-      .appName(name = "Create First Apache Spark Dataframe")
+      .appName(name = "Dataframe Operation: select, alias")
       .master(master = "local[*]")
       .getOrCreate()
 
